@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "test2",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "test",
+      "date": "2022-12-13T17:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "test",
+      "category": "Vegetables",
+      "freshness": "New Product",
+      "price": 20,
+      "comment": "test",
+      "date": "2022-12-16T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "t",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 12,
+      "comment": "test",
+      "date": "2022-12-09T17:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "2",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 1222,
+      "comment": "test",
+      "date": "2022-12-15T17:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "text",
+      "category": "Electronic",
+      "freshness": "New Product",
+      "price": 123,
+      "comment": "test",
+      "date": "2022-12-09T17:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "test",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 22,
+      "comment": "test",
+      "date": "2022-12-16T17:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
